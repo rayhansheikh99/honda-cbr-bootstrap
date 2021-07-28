@@ -10,3 +10,9 @@
     border-radius: 10px;
     border: aqua;
 }
+.feature-img{
+    filter: grayscale(100%);
+}
+.icon-bg{
+    color: orange;
+}
